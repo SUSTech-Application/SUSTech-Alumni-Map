@@ -4,19 +4,19 @@ The project is hosted at GitHub, which allows for everyone to add and manage the
 
 Learn about 3 ways how to manage your entry:
 
-## 1. Send a pull request
+## 1. Contact us
+
+Worst option, but no worries, we’d love to help! If you don’t have a GitHub account at all or you do not feel comfortable to open an issue containing your data, just send it to us. __Email:__ _12413305 [at] mail.sustech.edu.cn_
+
+## 2. Send a pull request
 
 __This is the best option:__ fork the repo, add or update your entry and send a pull request. Once merged, it will be live on the map! 💯
 
 👉 Did you know you don’t need to work with Git to add your entry? GitHub provides all the tools on its website and you can start using them immediately, see [Howto: add your entry via GitHub website](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/_directory/howto-add-entry-via-github.md).
 
-## 2. Open an issue
+## 3. Open an issue
 
 Second best option: if you’re not familiar with forking and pull requests, just open a [GitHub issue](https://github.com/FriendsOfREDAXO/community/issues) with your data inside. We’ll take care and add your data to the map.
-
-## 3. Contact us
-
-Worst option, but no worries, we’d love to help! If you don’t have a GitHub account at all or you do not feel comfortable to open an issue containing your data, just send it to us. __Email:__ _11510706 [at] mail.sustc.edu.cn_
 
 Btw: what data? 👇
 
