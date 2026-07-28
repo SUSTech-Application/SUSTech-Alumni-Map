@@ -1,37 +1,77 @@
-# SUSTech Alumni Map
+# SUSTech 校友地图
 
-A map filled with SUSTech alumni who are willing to help current SUSTech students in their application procedure. Hosted at GitHub, which allows for everyone to add their map entries. ♥ Join us!
+这是一个由愿意帮助南方科技大学（SUSTech）在校学生申请流程的校友组成的地图。
+
+该项目托管于 GitHub，任何人都可以添加自己的地图信息。♥ 欢迎加入我们！
 
 👉 __https://sustech-application.github.io/SUSTech-Alumni-Map/__
 
-![Screenshot](icons/SUSTech-Alumni-Map.png)
+![截图](icons/SUSTech-Alumni-Map.png)
 
-The screenshot above shows what user entries look like. You’ll even get your own URL for your entry, which is awesome! Look, this is a [link to SUSTech](https://sustech-application.github.io/SUSTech-Alumni-Map/#home).
+上面的截图展示了用户添加的信息在地图上的显示效果。
 
-## How to add and manage your entry?
+你甚至会获得一个属于自己的专属 URL 来访问你的信息页面，非常酷！
 
-You can add your marker to the map and manage your data by yourself. Learn about [3 ways how to manage your entry](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/tree/master/_directory)! 🚀
+例如，这是一个指向 SUSTech 的链接：
+[SUSTech](https://sustech-application.github.io/SUSTech-Alumni-Map/#home)。
 
-## Who’s the map for?
+## 如何添加和管理你的信息？
 
-The map is for any SUSTech student or staff: undergraduates, graduates et al. It’s about visualizing the distribution of SUSTech alumni. If you are one of SUSTech, the map is for you!
+你可以在地图上添加自己的标记，并自行管理你的数据。
 
-## How does this map work?
+请查看 [3 种管理个人条目的方式](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/tree/master/_directory)！🚀
 
-No big deal: GitHub allows to generate static websites out of repositories. They make use of [Jekyll](https://jekyllrb.com), a ruby based generator. Jekyll comes with [Liquid](https://shopify.github.io/liquid/) templates, which helped us to inject all our map entries within a JSON at the bottom of the HTML. JavaScript grabs the data and starts a nice [Leaflet](http://leafletjs.com) map with beautiful tiles provided by [CARTO](https://carto.com/location-data-services/basemaps/).  
-—Well, that’s it. ¯\\\_(ツ)_/¯
+或者直接联系我们：
+12413305 [at] mail.sustech.edu.cn
 
-## How can I improve this site?
+## 这个地图面向谁？
 
-We’d recommend you to download the repo as zip file instead and make it run on your local machine first (see [SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md) for instructions).
+该地图面向所有 SUSTech 学生和教职员工：
 
-In case you struggle, we’d love to help: [jimzhouzzy@gmail.com](jimzhouzzy@gmail.com).
+包括本科生、研究生以及其他成员。
 
-## How to run the map on my local machine?
+它旨在可视化展示 SUSTech 校友的全球分布情况。
 
-See [SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md) for instructions.
+如果你是 SUSTech 的一员，这个地图就是为你准备的！
 
-## 🛠️ Maintainers
+## 这个地图是如何工作的？
+
+其实并不复杂：
+
+GitHub 可以从代码仓库生成静态网站。
+
+我们使用了 [Jekyll](https://jekyllrb.com)，这是一个基于 Ruby 的静态网站生成器。
+
+Jekyll 自带 [Liquid](https://shopify.github.io/liquid/) 模板系统，
+它帮助我们将所有地图条目信息以 JSON 的形式注入到 HTML 页面底部。
+
+JavaScript 会读取这些数据，然后使用 [Leaflet](http://leafletjs.com)
+创建一个漂亮的交互式地图。
+
+地图瓦片由 [CARTO](https://carto.com/location-data-services/basemaps/)
+提供。
+
+——嗯，就这么简单。¯\\\_(ツ)_/¯
+
+## 如何改进这个网站？
+
+我们建议你先下载整个仓库的 zip 文件，
+然后在本地运行起来。
+
+具体步骤请参考：
+[SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md)。
+
+如果过程中遇到困难，我们很乐意提供帮助：
+
+[jimzhouzzy@gmail.com](jimzhouzzy@gmail.com)
+
+## 如何在本地运行地图？
+
+请参考：
+[SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md)
+中的说明。
+
+## 🛠️ 维护者
 
 <div>
   <a href="https://github.com/jimzhouzzy">
