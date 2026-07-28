@@ -158,13 +158,28 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Add dual-range slider elements
             container.innerHTML = `
-                <label for="year-range">Year Range:</label>
-                <div class="slider-container">
-                    <input type="range" id="year-range-min" min="11" max="${currentYear}" value="11">
-                    <input type="range" id="year-range-max" min="11" max="${currentYear}" value="${currentYear}">
-                    <div class="slider-track"></div>
-                </div>
-                <span id="year-range-display">2011 - 20${currentYear}</span>
+            <label>Year Range:</label>
+            <div class="slider-container">
+                <input 
+                    type="range"
+                    id="year-range-min"
+                    min="${startYear}"
+                    max="${currentYear}"
+                    value="${startYear}">
+                    
+                <input 
+                    type="range"
+                    id="year-range-max"
+                    min="${startYear}"
+                    max="${currentYear}"
+                    value="${currentYear}">
+
+                <div class="slider-track"></div>
+            </div>
+
+            <span id="year-range-display">
+                ${startYear} - ${currentYear}
+            </span>
             `;
 
             // Prevent map interactions when interacting with the slider
