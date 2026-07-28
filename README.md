@@ -1,6 +1,6 @@
 # SUSTech 校友地图
 
-这是一个由愿意帮助南方科技大学（SUSTech）在校学生申请流程的校友组成的地图。
+这是一个由南方科技大学（SUSTech）校友组成的地图。
 
 该项目托管于 GitHub，任何人都可以添加自己的地图信息。♥ 欢迎加入我们！
 
@@ -8,11 +8,11 @@
 
 ![截图](icons/SUSTech-Alumni-Map.png)
 
-上面的截图展示了用户添加的信息在地图上的显示效果。
+上面的截图展示了用户添加的信息在地图中的展示效果。
 
-你甚至会获得一个属于自己的专属 URL 来访问你的信息页面，非常酷！
+每个用户添加的条目都会生成一个独立的 URL，方便分享和访问，非常方便！
 
-例如，这是一个指向 SUSTech 的链接：
+e.g.，这是一个指向 SUSTech 的链接：
 [SUSTech](https://sustech-application.github.io/SUSTech-Alumni-Map/#home)。
 
 ## 如何添加和管理你的信息？
@@ -22,7 +22,7 @@
 请查看 [3 种管理个人条目的方式](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/tree/master/_directory)！🚀
 
 或者直接联系我们：
-12413305 [at] mail.sustech.edu.cn
+[jimzhouzzy@gmail.com](jimzhouzzy@gmail.com)
 
 ## 这个地图面向谁？
 
