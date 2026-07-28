@@ -2,6 +2,7 @@
 # name (required)
 # may be your real name or your nick
 name: Home
+grade: 11
 
 # geo location (required)
 # provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
@@ -23,6 +24,6 @@ image: SUSTech.png
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops!
 links:
-- http://www.sustc.edu.cn/
-- http://www.sustc.edu.cn/en/
+- http://www.sustech.edu.cn/
+- http://www.sustech.edu.cn/en/
 ---
