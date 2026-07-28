@@ -34,42 +34,6 @@ e.g.，这是一个指向 SUSTech 的链接：
 
 如果你是 SUSTech 的一员，这个地图就是为你准备的！
 
-## 这个地图是如何工作的？
-
-其实并不复杂：
-
-GitHub 可以从代码仓库生成静态网站。
-
-我们使用了 [Jekyll](https://jekyllrb.com)，这是一个基于 Ruby 的静态网站生成器。
-
-Jekyll 自带 [Liquid](https://shopify.github.io/liquid/) 模板系统，
-它帮助我们将所有地图条目信息以 JSON 的形式注入到 HTML 页面底部。
-
-JavaScript 会读取这些数据，然后使用 [Leaflet](http://leafletjs.com)
-创建一个漂亮的交互式地图。
-
-地图瓦片由 [CARTO](https://carto.com/location-data-services/basemaps/)
-提供。
-
-——嗯，就这么简单。¯\\\_(ツ)_/¯
-
-## 如何改进这个网站？
-
-我们建议你先下载整个仓库的 zip 文件，
-然后在本地运行起来。
-
-具体步骤请参考：
-[SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md)。
-
-如果过程中遇到困难，我们很乐意提供帮助：
-
-[jimzhouzzy@gmail.com](jimzhouzzy@gmail.com)
-
-## 如何在本地运行地图？
-
-请参考：
-[SETUP.md](https://github.com/SUSTech-Application/SUSTech-Alumni-Map/blob/master/SETUP.md)
-中的说明。
 
 ## 🛠️ 维护者
 
